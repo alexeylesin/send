@@ -1,11 +1,12 @@
-# [![Send](./assets/icon.svg)](https://github.com/alexeylesin/send/) LesinSend
+# LesinSend
 
 Форк ранее закрытого сервиса [Firefox Send](https://github.com/mozilla/send/). Mozilla перестали его поддерживать,
 поэтому я решил поставить его к себе на хостинг и сделать публичным. Данный репозиторий основан
 на [другом форке](https://github.com/timvisee/send).
 
 - Удалены все упоминания _Mozilla_ и _Firefox_
-- Оставлена совместимость с [`ffsend`][ffsend] (CLI)
+- Оставлена совместимость с `ffsend` (CLI)
+- Документация частично переведена на русский язык
 - Были активированы некоторые экспериментальные функции
 
 Гайд по установке на Docker можно найти здесь: [docs/docker.md](docs/docker.md)
