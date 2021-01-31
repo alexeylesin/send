@@ -1,4 +1,4 @@
-title = Send
+title = LesinSend
 importingFile = Uvoz…
 encryptingFile = Šifriranje …
 decryptingFile = Dešifriranje …
@@ -45,8 +45,8 @@ passwordSetError = Lozinku nije moguće postaviti
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = LesinSend
+-send-short-brand = LesinSend
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Jednostavno i privatno dijeljenje datoteka

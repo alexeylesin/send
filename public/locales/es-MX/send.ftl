@@ -1,4 +1,4 @@
-title = Send
+title = LesinSend
 importingFile = Importando...
 encryptingFile = Encriptando…
 decryptingFile = Desencriptando…
@@ -43,7 +43,7 @@ passwordSetError = No se ha podido establecer la contraseña
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = LesinSend
 -send-short-brand = Enviar
 -firefox = Firefox
 -mozilla = Mozilla

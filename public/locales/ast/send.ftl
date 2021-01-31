@@ -1,4 +1,4 @@
-title = Send
+title = LesinSend
 importingFile = Importando...
 encryptingFile = Cifrando...
 decryptingFile = Descifrando...
@@ -43,8 +43,8 @@ passwordSetError = Nun pudo afitase esta contraseña
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = LesinSend
+-send-short-brand = LesinSend
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Compartición de ficheros privada y cenciella

@@ -1,4 +1,4 @@
-title = Send
+title = LesinSend
 importingFile = 匯入中…
 encryptingFile = 加密中…
 decryptingFile = 解密中…
@@ -41,8 +41,8 @@ passwordSetError = 無法設定此密碼
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = LesinSend
+-send-short-brand = LesinSend
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = 簡單而私密的檔案共享服務

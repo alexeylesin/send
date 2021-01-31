@@ -1,4 +1,4 @@
-title = Send
+title = LesinSend
 importingFile = Mokalakijtok…
 encryptingFile = Motatijtok…
 decryptingFile = Kichiujtok se uelis kiixtajtoltis ya…
@@ -41,7 +41,7 @@ passwordSetError = Nejin ichtakatajtol amo uel kiixtaliani
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = LesinSend
 -send-short-brand = Xiktitani
 -firefox = Firefox
 -mozilla = Mozilla

@@ -1,4 +1,4 @@
-title = Send je oruko ile-ise kan, kò sì ye ki a so di ibile.
+title = LesinSend je oruko ile-ise kan, kò sì ye ki a so di ibile.
 importingFile = akowọle…
 encryptingFile = Fifi ọrọ ṣiṣẹ…
 decryptingFile = Ti nkọ nkan…
@@ -82,7 +82,7 @@ passwordSetError =
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = LesinSend
 -send-short-brand =
     Fi ránṣẹ́
     Firánṣẹ́

@@ -1,4 +1,4 @@
-title = Send
+title = LesinSend
 importingFile = Ներմուծում...
 encryptingFile = Գաղտնագրում…
 decryptingFile = Վերծանում…
@@ -43,7 +43,7 @@ passwordSetError = Այս գաղտնաբառը հնարավոր չէ սահմա�
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = LesinSend
 -send-short-brand = Ուղարկել
 -firefox = Firefox
 -mozilla = Mozilla

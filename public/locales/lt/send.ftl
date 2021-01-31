@@ -1,4 +1,4 @@
-title = Send
+title = LesinSend
 importingFile = Importuojama…
 encryptingFile = Šifruojama…
 decryptingFile = Iššifruojama…
@@ -45,8 +45,8 @@ passwordSetError = Slaptažodžio nustatyti nepavyko
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = LesinSend
+-send-short-brand = LesinSend
 -firefox = Firefox
 -mozilla =
     { $case ->

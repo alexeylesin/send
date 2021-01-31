@@ -1,4 +1,4 @@
-title = Send
+title = LesinSend
 importingFile = Importálás…
 encryptingFile = Titkosítás…
 decryptingFile = Visszafejtés…
@@ -43,8 +43,8 @@ passwordSetError = Ez a jelszó nem állítható be
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = LesinSend
+-send-short-brand = LesinSend
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Egyszerű, privát fájlmegosztás

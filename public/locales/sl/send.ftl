@@ -1,4 +1,4 @@
-title = Send
+title = LesinSend
 importingFile = Uvažanje …
 encryptingFile = Šifriranje ...
 decryptingFile = Dešifriranje ...
@@ -47,8 +47,8 @@ passwordSetError = Gesla ni mogoče nastaviti
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = LesinSend
+-send-short-brand = LesinSend
 -firefox =
     { $sklon ->
        *[imenovalnik] Firefox

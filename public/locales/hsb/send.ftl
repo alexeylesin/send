@@ -1,4 +1,4 @@
-title = Send
+title = LesinSend
 importingFile = Importuje so...
 encryptingFile = Zaklučuje so...
 decryptingFile = Dešifruje so...
@@ -47,8 +47,8 @@ passwordSetError = Tute hesło njeda so nastajić
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = LesinSend
+-send-short-brand = LesinSend
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Jednore, priwatne datajowe dźělenje

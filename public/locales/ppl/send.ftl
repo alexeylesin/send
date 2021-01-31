@@ -1,4 +1,4 @@
-title = Send
+title = LesinSend
 importingFile = Mukalaktia nemi…
 encryptingFile = Tikichtakawiat tinemit…
 decryptingFile = Tikichtakapuat tinemit…
@@ -43,7 +43,7 @@ passwordSetError = Te tiweliket tiktaliat ini ichtakataketzalis
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = LesinSend
 -send-short-brand = Shiktitani
 -firefox = Firefox
 -mozilla = Mozilla

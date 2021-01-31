@@ -1,4 +1,4 @@
-title = Send
+title = LesinSend
 importingFile = Importeren…
 encryptingFile = Versleutelen…
 decryptingFile = Ontsleutelen…
@@ -48,8 +48,8 @@ passwordSetError = Dit wachtwoord kon niet worden ingesteld
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = LesinSend
+-send-short-brand = LesinSend
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Eenvoudig, privé bestanden delen

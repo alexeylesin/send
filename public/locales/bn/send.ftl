@@ -1,4 +1,4 @@
-title = Send
+title = LesinSend
 importingFile = ইম্পোর্ট হচ্ছে...
 encryptingFile = ইনক্রিপট হচ্ছে...
 decryptingFile = ডিক্রিপট হচ্ছে...
@@ -18,7 +18,7 @@ unlockButtonLabel = আনলক করুন
 downloadButtonLabel = ডাউনলোড
 downloadFinish = ডাউনলোড সম্পন্ন
 fileSizeProgress = ({ $totalSize } এর { $partialSize })
-sendYourFilesLink = Send পরখ করে দেখুন
+sendYourFilesLink =  পরখ করে দেখুন
 errorPageHeader = কোন সমস্যা হয়েছে!
 fileTooBig = ফাইলটি আপলোড করার জন্যে খুব বড়। এটি { $size } এর চেয়ে কম হওয়া উচিত।
 linkExpiredAlt = লিঙ্ক মেয়াদউত্তীর্ণ হয়েছে
@@ -43,7 +43,7 @@ passwordSetError = এই পাসওয়ার্ড সেট করা য
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = LesinSend
 -send-short-brand = প্রেরণ
 -firefox = Firefox
 -mozilla = Mozilla

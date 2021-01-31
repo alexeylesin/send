@@ -1,4 +1,4 @@
-title = Send
+title = LesinSend
 importingFile = Kutora faira
 encryptingFile = Kuinikiriputa
 enableJavascript = Ndinokumbira mubvumidze JavaScript moedza zvekare

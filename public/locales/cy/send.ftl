@@ -1,4 +1,4 @@
-title = Send
+title = LesinSend
 importingFile = Mewnforio…
 encryptingFile = Wrthi'n amgryptio…
 decryptingFile = Wrthi'n dadgryptio…
@@ -51,7 +51,7 @@ passwordSetError = Nid oedd modd gosod y cyfrinair hwn
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = LesinSend
 -send-short-brand = Anfon
 -firefox = Firefox
 -mozilla = Mozilla

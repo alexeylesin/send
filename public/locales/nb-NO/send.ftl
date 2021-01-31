@@ -1,4 +1,4 @@
-title = Send
+title = LesinSend
 importingFile = Importerer…
 encryptingFile = Krypterer...
 decryptingFile = Dekrypterer...
@@ -43,8 +43,8 @@ passwordSetError = Dette passordet kunne ikke settes
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = LesinSend
+-send-short-brand = LesinSend
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Enkel, privat fildeling

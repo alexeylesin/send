@@ -1,4 +1,4 @@
-title = Send
+title = LesinSend
 importingFile = در حال وارد کردن…
 encryptingFile = در حال رمزنگاری…
 decryptingFile = در حال رمزگشایی…
@@ -43,7 +43,7 @@ passwordSetError = امکان ثبت این گذواژه نیست
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = LesinSend
 -send-short-brand = ارسال
 -firefox = فایرفاکس
 -mozilla = موزیلا

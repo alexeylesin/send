@@ -1,4 +1,4 @@
-title = Send
+title = LesinSend
 importingFile = هاوردەکردن...
 encryptingFile = بەهێماکردن...
 decryptingFile = هێمالابردن...
@@ -43,8 +43,8 @@ passwordSetError = ناتوانرێت وشەی تێپەڕ دابنرێت
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = LesinSend
+-send-short-brand = LesinSend
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = سانا، بڵاوکەرەوەی پەڕگەی تایبەتیی

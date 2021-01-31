@@ -1,4 +1,4 @@
-title = Send
+title = LesinSend
 importingFile = Ndakiin…
 encryptingFile = Ndasami tu'un…
 decryptingFile = Nchiko tu'un…
@@ -43,8 +43,8 @@ passwordSetError = Ma ku ntanii tu'un see
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = LesinSend
+-send-short-brand = LesinSend
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Stucha kue tutu ku

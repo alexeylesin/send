@@ -1,4 +1,4 @@
-title = Send
+title = LesinSend
 importingFile = Importazione in corso…
 encryptingFile = Crittazione in corso…
 decryptingFile = Decrittazione in corso…
@@ -43,8 +43,8 @@ passwordSetError = Impossibile impostare la password
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = LesinSend
+-send-short-brand = LesinSend
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Condividi file in modo semplice e riservato

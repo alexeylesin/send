@@ -1,4 +1,4 @@
-title = Send
+title = LesinSend
 importingFile = Mengimpor…
 encryptingFile = Mengenkripsi...
 decryptingFile = Mendekripsi...
@@ -41,8 +41,8 @@ passwordSetError = Tidak bisa menyetel sandi ini
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = LesinSend
+-send-short-brand = LesinSend
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Berbagi berkas dengan mudah dan privat
