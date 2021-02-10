@@ -201,6 +201,7 @@ const web = {
   ],
   devtool: 'source-map',
   devServer: {
+    disableHostCheck: true,
     before:
       process.env.NODE_ENV === 'development' && require('./server/bin/dev'),
     compress: true,
