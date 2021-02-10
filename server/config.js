@@ -91,7 +91,7 @@ const conf = convict({
   },
   listen_address: {
     format: 'ipaddress',
-    default: '127.0.0.1',
+    default: '0.0.0.0',
     env: 'IP_ADDRESS'
   },
   listen_port: {
@@ -142,7 +142,7 @@ const conf = convict({
   },
   base_url: {
     format: 'url',
-    default: 'https://send.alexeylesin.ru',
+    default: 'https://send.firefox.com',
     env: 'BASE_URL'
   },
   file_dir: {
@@ -212,8 +212,8 @@ const conf = convict({
   },
   footer_source_url: {
     format: String,
-    default: 'https://github.com/alexeylesin/send',
-    env: 'SEND_FOOTER_CLI_URL'
+    default: 'https://github.com/timvisee/send',
+    env: 'SEND_FOOTER_SOURCE_URL'
   }
 });
 
