@@ -142,7 +142,7 @@ const conf = convict({
   },
   base_url: {
     format: 'url',
-    default: 'https://send.firefox.com',
+    default: 'https://send.alexeylesin.ru',
     env: 'BASE_URL'
   },
   file_dir: {
@@ -152,7 +152,7 @@ const conf = convict({
   },
   fxa_url: {
     format: 'url',
-    default: 'https://send-fxa.dev.lcip.org',
+    default: '',
     env: 'FXA_URL'
   },
   fxa_client_id: {
@@ -197,7 +197,7 @@ const conf = convict({
   },
   footer_donate_url: {
     format: String,
-    default: '',
+    default: 'https://donate.alexeylesin.ru',
     env: 'SEND_FOOTER_DONATE_URL'
   },
   footer_cli_url: {
@@ -207,12 +207,12 @@ const conf = convict({
   },
   footer_dmca_url: {
     format: String,
-    default: '',
+    default: 'https://vk.me/securityerror',
     env: 'SEND_FOOTER_DMCA_URL'
   },
   footer_source_url: {
     format: String,
-    default: 'https://github.com/timvisee/send',
+    default: 'https://github.com/alexeylesin/send',
     env: 'SEND_FOOTER_SOURCE_URL'
   }
 });
