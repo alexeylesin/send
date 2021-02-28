@@ -207,6 +207,7 @@ const web = {
     compress: true,
     hot: false,
     host: '0.0.0.0',
+    port: process.env.PORT,
     proxy: {
       '/api/ws': {
         target: 'ws://localhost:8081',
