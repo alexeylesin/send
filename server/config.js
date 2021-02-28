@@ -6,12 +6,12 @@ const { randomBytes } = require('crypto');
 const conf = convict({
   s3_bucket: {
     format: String,
-    default: '',
+    default: 'send',
     env: 'S3_BUCKET'
   },
   s3_endpoint: {
     format: String,
-    default: '',
+    default: 'https://gateway.tardigradeshare.io',
     env: 'S3_ENDPOINT'
   },
   s3_use_path_style_endpoint: {
@@ -41,7 +41,7 @@ const conf = convict({
   },
   anon_max_expire_seconds: {
     format: Number,
-    default: 86400,
+    default: 86400 * 7,
     env: 'ANON_MAX_EXPIRE_SECONDS'
   },
   download_counts: {
@@ -127,12 +127,12 @@ const conf = convict({
   },
   max_file_size: {
     format: Number,
-    default: 1024 * 1024 * 1024 * 2.5,
+    default: 1024 * 1024 * 1024 * 10.2,
     env: 'MAX_FILE_SIZE'
   },
   anon_max_file_size: {
     format: Number,
-    default: 1024 * 1024 * 1024,
+    default: 1024 * 1024 * 1024 * 10.2,
     env: 'ANON_MAX_FILE_SIZE'
   },
   l10n_dev: {

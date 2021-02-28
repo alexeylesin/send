@@ -30,7 +30,7 @@
     "test:report": "nyc report --reporter=html",
     "test-integration": "cross-env NODE_ENV=development wdio test/wdio.docker.conf.js",
     "circleci-test-integration": "echo 'webdriverio tests need to be updated to node 12'",
-    "start": "npm run clean && cross-env NODE_ENV=development L10N_DEV=true FXA_CLIENT_ID=fced6b5e3f4c66b9 BASE_URL=https://send.alexeylesin.repl.co webpack-dev-server --mode=development",
+    "start": "npm run clean && webpack-dev-server --mode=development --host 0.0.0.0 --port 80",
     "android": "cross-env ANDROID=1 npm start",
     "prod": "node server/bin/prod.js"
   },
