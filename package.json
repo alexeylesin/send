@@ -30,9 +30,10 @@
     "test:report": "nyc report --reporter=html",
     "test-integration": "cross-env NODE_ENV=development wdio test/wdio.docker.conf.js",
     "circleci-test-integration": "echo 'webdriverio tests need to be updated to node 12'",
-    "start": "npm run clean && webpack-dev-server --mode=development",
+    "dev": "npm run clean && webpack-dev-server --mode=development",
     "android": "cross-env ANDROID=1 npm start",
-    "prod": "node server/bin/prod.js"
+    "prod": "node server/bin/prod.js",
+    "start": "node server/bin/prod.js"
   },
   "heroku-run-build-script": true,
   "husky": {
