@@ -34,6 +34,7 @@
     "android": "cross-env ANDROID=1 npm start",
     "prod": "node server/bin/prod.js"
   },
+  "heroku-run-build-script": true,
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged",

@@ -96,7 +96,7 @@ const conf = convict({
   },
   listen_port: {
     format: 'port',
-    default: 1443,
+    default: process.env.PORT,
     arg: 'port',
     env: 'PORT'
   },
