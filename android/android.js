@@ -22,8 +22,8 @@ import { setTranslate } from '../app/utils';
 
 import { delay } from '../app/utils';
 
-if (navigator.userAgent === 'Send Android') {
-  setApiUrlPrefix('https://send.firefox.com');
+if (navigator.userAgent === 'LesinSend Android') {
+  setApiUrlPrefix('https://send.alexeylesin.me');
 }
 
 const app = choo();

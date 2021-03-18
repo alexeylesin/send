@@ -61,7 +61,7 @@ class MainActivity : AppCompatActivity(), AdvancedWebView.Listener {
             webChromeClient = LoggingWebChromeClient()
 
             settings.apply {
-                userAgentString = "Send Android"
+                userAgentString = "LesinSend Android"
                 allowUniversalAccessFromFileURLs = true
                 javaScriptEnabled = true
             }
