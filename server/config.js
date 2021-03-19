@@ -6,7 +6,7 @@ const { randomBytes } = require('crypto');
 const conf = convict({
   s3_bucket: {
     format: String,
-    default: 'send',
+    default: 'lesinsend',
     env: 'S3_BUCKET'
   },
   s3_endpoint: {
