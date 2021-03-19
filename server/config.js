@@ -11,7 +11,7 @@ const conf = convict({
   },
   s3_endpoint: {
     format: String,
-    default: 'https://gateway.tardigradeshare.io',
+    default: 'https://s3.eu-central-1.wasabisys.com',
     env: 'S3_ENDPOINT'
   },
   s3_use_path_style_endpoint: {
@@ -142,7 +142,7 @@ const conf = convict({
   },
   base_url: {
     format: 'url',
-    default: 'https://send.alexeylesin.ru',
+    default: 'https://send.alexeylesin.me',
     env: 'BASE_URL'
   },
   file_dir: {
@@ -197,7 +197,7 @@ const conf = convict({
   },
   footer_donate_url: {
     format: String,
-    default: 'https://donate.alexeylesin.ru',
+    default: 'https://donate.alexeylesin.me',
     env: 'SEND_FOOTER_DONATE_URL'
   },
   footer_cli_url: {
