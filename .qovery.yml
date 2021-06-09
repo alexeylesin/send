@@ -1,0 +1,11 @@
+---
+application:
+  name: "lesinsend"
+  project: "lesinsend"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-lesinsend"
+  routes:
+  - application_name: "lesinsend"
+    paths:
+    - "/*"
